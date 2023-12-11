@@ -1,0 +1,5 @@
+pandas
+pymango
+notebook
+pymango[srv]
+pandas
